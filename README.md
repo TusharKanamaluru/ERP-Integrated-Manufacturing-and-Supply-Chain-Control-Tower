@@ -1,61 +1,123 @@
 # ERP-Integrated Manufacturing & Supply Chain Control Tower
 
-## Project Overview
+## TL;DR
 
-This project develops a centralized decision-support platform for a manufacturing organization by integrating inventory management, procurement analytics, supplier performance evaluation, and production planning into a single framework.
-
-The objective is to improve operational visibility and support informed decision-making across key business functions using data analytics and optimization techniques.
+Designed a centralized Manufacturing & Supply Chain Control Tower for a high-precision machining company. The platform combines inventory optimization, supplier performance management, procurement analytics, and production planning into a single decision-support framework, enabling data-driven operational decision-making across the manufacturing value chain.
 
 ---
 
-## Business Problem
+## Project Overview
 
-A mid-sized manufacturing company operates:
+This project develops an ERP-inspired decision-support platform for a high-precision machining company. The platform integrates inventory management, procurement analytics, supplier performance monitoring, and production planning into a unified operational framework.
 
-- 2 Manufacturing Plants
-- 3 Warehouses
-- Multiple Suppliers
-- 100 Product SKUs
+The objective is to improve visibility across manufacturing operations and support data-driven decision-making through analytics and optimization techniques.
 
-The company faces several operational challenges:
+---
 
-- Excess inventory and high carrying costs
-- Variable supplier lead times
-- Limited visibility into procurement performance
-- Production planning inefficiencies
-- Demand uncertainty
+## Business Scenario
 
-This project proposes an integrated approach to support planning, monitoring, and decision-making across the supply chain.
+The organization manufactures precision-machined components for industrial equipment, automotive applications, and heavy machinery using CNC machining and secondary finishing operations.
+
+Current operational challenges include:
+
+- Excess inventory and working-capital utilization
+- Supplier lead-time variability
+- Procurement inefficiencies
+- Machine-capacity constraints
+- Production scheduling delays
+- Limited visibility across supply chain activities
+
+The project develops a centralized control tower that enables better planning, monitoring, and decision-making across manufacturing and supply chain functions.
 
 ---
 
 ## Project Objectives
 
-- Analyze product demand
 - Optimize inventory policies
-- Evaluate supplier performance
-- Monitor procurement spend
-- Support production planning
-- Develop executive-level operational dashboards
+- Improve supplier performance visibility
+- Support procurement decision-making
+- Enhance production planning efficiency
+- Develop operational dashboards for management reporting
 
 ---
 
-## Modules
+## Project Modules
 
 ### Inventory Optimization
-EOQ, Safety Stock, and Reorder Point calculations.
+
+Determine optimal inventory policies through:
+
+- Economic Order Quantity (EOQ)
+- Safety Stock Calculation
+- Reorder Point Planning
+- Inventory Classification
+
+### Supplier Performance Analytics
+
+Evaluate suppliers using:
+
+- Delivery Performance
+- Lead Time Analysis
+- Quality Metrics
+- Supplier Reliability
+- Spend Distribution
 
 ### Procurement Analytics
-Procurement spend tracking and supplier evaluation.
 
-### Supplier Performance
-Lead-time, quality, and delivery-performance analysis.
+Monitor:
+
+- Purchase Spend
+- Supplier Concentration
+- Procurement KPIs
+- Cost Trends
+- Sourcing Performance
 
 ### Production Planning
-Capacity utilization and production scheduling support.
+
+Support manufacturing operations through:
+
+- Capacity Planning
+- Workload Balancing
+- Production Scheduling
+- Resource Utilization Analysis
 
 ### Executive Dashboard
-Visualization of key operational metrics and business KPIs.
+
+Provide a consolidated view of operational KPIs and business performance metrics.
+
+---
+
+## Manufacturing Environment
+
+The analysis is based on a high-precision machining environment producing components through:
+
+- CNC Turning
+- CNC Milling
+- Drilling Operations
+- Grinding Operations
+- Quality Inspection
+- Final Dispatch
+
+Materials considered include:
+
+- EN8 Steel
+- EN24 Steel
+- AISI 4140 Alloy Steel
+- Aluminium Billets
+- Bearings
+- Fasteners
+- Industrial Consumables
+
+---
+
+## Expected Outcomes
+
+- Reduced inventory carrying costs
+- Improved supplier performance visibility
+- Better procurement decision-making
+- Enhanced production planning accuracy
+- Higher operational efficiency
+- Improved resource utilization
 
 ---
 
@@ -65,7 +127,7 @@ Visualization of key operational metrics and business KPIs.
 - Pandas
 - SQL
 - Power BI
-- Excel
+- Microsoft Excel
 - Operations Research Techniques
 
 ---
@@ -73,14 +135,33 @@ Visualization of key operational metrics and business KPIs.
 ## Repository Structure
 
 ```text
-ERP-Supply-Chain-Control-Tower
+ERP-Integrated Manufacturing & Supply Chain Control Tower
 │
 ├── data/
 ├── inventory/
-├── procurement/
 ├── supplier_analytics/
+├── procurement/
 ├── production_planning/
 ├── dashboards/
 ├── reports/
 └── README.md
 ```
+
+---
+
+## Future Enhancements
+
+- Real-time ERP Integration
+- Predictive Demand Forecasting
+- Supplier Risk Assessment
+- Production Bottleneck Analytics
+- Digital Manufacturing Dashboard
+- Automated Procurement Recommendations
+
+---
+
+## Author
+
+**Tushar Kanamaluri**
+
+Mechanical Engineering Graduate | Manufacturing Operations | Procurement | Supply Chain Analytics 
