@@ -1,6 +1,0 @@
-Supplier,Country,Lead_Time_Days,On_Time_Delivery_Percent,Defect_Rate_Percent,Annual_Spend_INR
-Tata Steel,India,7,95,1.2,4200000
-SKF,Sweden,18,96,0.8,2500000
-Sandvik Coromant,Sweden,14,97,0.5,1800000
-THK,Japan,21,94,0.7,1400000
-SMC Corporation,Japan,16,95,0.9,1200000
