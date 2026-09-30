@@ -1,0 +1,81 @@
+# Production Planning
+
+## Objective
+
+The objective of this module is to support manufacturing scheduling and resource allocation within a high-precision machining facility.
+
+The analysis evaluates machine capacity, production workload, and resource utilization to ensure demand requirements can be met efficiently.
+
+---
+
+## Manufacturing Process Flow
+
+The production process consists of:
+
+1. Raw Material Receipt
+2. CNC Turning
+3. CNC Milling
+4. Drilling Operations
+5. Grinding Operations
+6. Quality Inspection
+7. Final Dispatch
+
+---
+
+## Machine Capacity
+
+| Work Center | Available Capacity (Hours/Month) |
+|------------|------------:|
+| CNC Turning | 320 |
+| CNC Milling | 280 |
+| Drilling | 160 |
+| Grinding | 120 |
+| Inspection | 140 |
+
+---
+
+## Production Planning Considerations
+
+The production schedule must account for:
+
+- Material Availability
+- Supplier Lead Times
+- Machine Capacity
+- Workload Distribution
+- Maintenance Downtime
+- Order Prioritization
+
+---
+
+## Key Findings
+
+### Capacity Utilization
+
+CNC Turning and CNC Milling represent the primary production bottlenecks due to higher workload requirements.
+
+### Material Dependency
+
+Production schedules are highly dependent on timely availability of steel stock, bearings, tooling, and purchased components.
+
+### Resource Allocation
+
+Machine utilization can be improved by balancing workloads across available work centers and reducing idle capacity.
+
+### Planning Risks
+
+Supplier delays for imported tooling and components can affect production schedules and increase manufacturing lead times.
+
+---
+
+## Recommendations
+
+- Monitor machine utilization on a weekly basis.
+- Align procurement activities with planned production schedules.
+- Establish minimum inventory buffers for critical materials.
+- Review production loading before releasing work orders.
+
+---
+
+## Conclusion
+
+Production planning provides a structured framework for aligning material availability, machine capacity, and customer demand, supporting efficient manufacturing operations.
