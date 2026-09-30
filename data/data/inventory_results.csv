@@ -1,0 +1,11 @@
+Material_ID,Material_Name,EOQ,Safety_Stock,Reorder_Point
+RM001,EN8 Round Bar,180,35,70
+RM002,EN24 Steel Rod,140,30,60
+RM003,Bearing Assembly,320,45,90
+RM004,Carbide Inserts,700,80,150
+RM005,Linear Guideways,25,8,15
+RM006,Pneumatic Fittings,120,25,50
+RM007,Solid Carbide End Mill,45,10,20
+RM008,Fasteners,1500,100,200
+RM009,Coolant Fluid,80,15,30
+RM010,Inspection Gauges,15,4,8
