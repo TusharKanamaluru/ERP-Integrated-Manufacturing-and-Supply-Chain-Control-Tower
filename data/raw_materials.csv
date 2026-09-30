@@ -1,11 +1,11 @@
-Material_ID,Material_Name,Material_Type,Annual_Demand,Unit_Cost,Lead_Time_Days,Supplier
-RM001,EN8 Round Bar,Raw Material,1200,18,10,Supplier A
-RM002,EN24 Steel Rod,Raw Material,950,32,14,Supplier B
-RM003,AISI 4140 Alloy Steel,Raw Material,600,45,18,Supplier C
-RM004,Aluminium Billet,Raw Material,1500,12,8,Supplier D
-RM005,Bearing Assembly,Bought Out,2500,8,7,Supplier E
-RM006,Carbide Inserts,Consumable,5000,2,5,Supplier B
-RM007,Hydraulic Fittings,Bought Out,1200,6,12,Supplier C
-RM008,Fasteners,Consumable,15000,0.5,3,Supplier A
-RM009,Coolant Fluid,Consumable,800,15,4,Supplier D
-RM010,Inspection Gauges,Tooling,200,120,20,Supplier E
+Material_ID,Material_Name,Material_Type,Annual_Demand,Unit_Cost_USD,Lead_Time_Days,Supplier
+RM001,EN8 Round Bar,Raw Material,800,15,9,Supplier A
+RM002,EN24 Steel Rod,Raw Material,650,28,12,Supplier B
+RM003,AISI 4140 Alloy Steel,Raw Material,400,38,18,Supplier C
+RM004,Aluminium Billet,Raw Material,1200,10,7,Supplier D
+RM005,Bearing Assembly,Bought Out,1800,6,6,Supplier E
+RM006,Carbide Inserts,Consumable,3500,1.8,5,Supplier B
+RM007,Hydraulic Fittings,Bought Out,700,5,10,Supplier C
+RM008,Fasteners,Consumable,10000,0.4,3,Supplier A
+RM009,Coolant Fluid,Consumable,500,12,4,Supplier D
+RM010,Inspection Gauges,Tooling,80,95,20,Supplier E
