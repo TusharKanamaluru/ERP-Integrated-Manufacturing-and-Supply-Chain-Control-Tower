@@ -4,6 +4,20 @@
 
 Developed an ERP-inspired analytics platform for a high-precision machining company to support inventory optimization, supplier evaluation, procurement monitoring, and production planning. The project combines manufacturing operations data with supply chain analytics to improve visibility and support operational decision-making.
 
+## Quick Navigation
+
+📊 Presentation → `presentations/`
+
+📄 Capstone Report → `reports/`
+
+📦 Datasets → `data/`
+
+📈 Inventory Analytics → `inventory/`
+
+🏭 Production Planning → `production_planning/`
+
+📋 Procurement Analytics → `procurement/`
+
 ---
 
 ## Project Overview
@@ -191,6 +205,15 @@ ERP-Integrated Manufacturing & Supply Chain Control Tower
 ├── reports/
 └── README.md
 ```
+## Presentation
+
+The complete project presentation is available in the `presentations` directory and provides a visual summary of the business problem, methodology, analytical framework, and key findings developed throughout the project.
+
+📊 Project Presentation:
+`presentations/ERP_Control_Tower_Capstone_Presentation.pdf`
+
+📄 Editable Source:
+`presentations/ERP_Control_Tower_Capstone_Presentation.pptx`
 
 ---
 
